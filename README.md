@@ -1,4 +1,4 @@
-## Oi!! Eu sou Edric Martins.
+## Oi!! Sou Edric Martins.
 
 
 - 🔭 Sou um estudante de Programação 
